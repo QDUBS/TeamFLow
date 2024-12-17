@@ -23,4 +23,5 @@ c. Run the server, by using the command "npm run dev"
 
 d. And voila!!
 
-e. You can also find the app live on - https://team-flow-5oa2ch6qw-confidence-isaiahs-projects-6c1af069.vercel.app/auth/login
+e. You can also find the app live on - https://team-flow-ten.vercel.app
+
